@@ -1,2 +1,2 @@
 # mach-es
-MachEs Projekt für unseren Kursseite  
+MachEs Projekt für unsere Kursseite  
